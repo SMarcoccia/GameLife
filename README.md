@@ -1,5 +1,9 @@
 # Jeu de la vie de John Horton Conway
 
+# Jouez
+  
+  - Double cliquer sur l'exécutable life.exe.
+
 # Tuto
 
 ## Dans la grille : 
