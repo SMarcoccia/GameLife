@@ -1,0 +1,6 @@
+# Extension.
+*.o
+.vscode
+
+# Dossier
+/.vscode
